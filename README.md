@@ -45,6 +45,8 @@ You can find all scripted/human demo for simulated environments [here](https://d
     pip install ipython
     cd act/detr && pip install -e .
 
+Then in `~/.bashrc` add `export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libstdc++.so.6`
+
 ### Example Usages
 
 To set up a new terminal, run:

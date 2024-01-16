@@ -3,6 +3,7 @@ logs
 wandb
 outputs
 data
+data_save/
 data_local
 .vscode
 _wandb
